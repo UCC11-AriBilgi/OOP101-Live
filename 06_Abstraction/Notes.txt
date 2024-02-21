@@ -1,0 +1,13 @@
+﻿-- Mülakatlarda sorulacak bir soru olabilir
+
+Interface ile Abstract(Soyutlama) arasındaki fark nedir
+
+Interface: Bir nevi iki taraf arasındaki bir sözlesme gibi. Sadece metot tanımları(imzaları) bulunur.Herhangi bir kod blogu yazılmaz.
+
+Abstract Class: hem metot imzaları hem de gerekiyorsa içerikleri bulunabilir.
+
+Bir sınıf birden fazla Interfaceden implement edilebilir
+
+Fakat bir sınıf sadece bir tane abstract classdan türetilebilir.
+
+birbirlerine benziyor gibi gozukmelerine ragmen elma ile armut gibi farklıdırlar

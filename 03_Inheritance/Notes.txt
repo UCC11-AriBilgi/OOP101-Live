@@ -1,0 +1,5 @@
+﻿Inheritance (Kalıtım)
+
+Herhangi türetilen bir sınıfın özelliklerini metotlarını, davranışlarını ve özelliklerini başka bir sınıfa aktarmak için kullanılır. Bu sayede kod tekrarından kaçınılır ve kodun yeniden kullanılabilirliği artar.
+
+

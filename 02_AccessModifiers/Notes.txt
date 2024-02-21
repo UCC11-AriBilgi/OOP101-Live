@@ -1,0 +1,13 @@
+﻿Access Modifiers
+
+public: Her projeden çağrılarak kullanılabilecek değişkenler, field, method ve functionlar için kullanılır
+
+private: Aynı class içerisinde erişilebilen değişken,field, method, function tanımlamak için kullanılıyor
+ 
+internal: Aynı projede kullanılacak değişken, field, method, function tanımlamak için kullanılıyor
+ 
+protected: Inherit(Miras, Kalıtım)yapılarak türettiğimiz sınıflarda kullanmak istediğimiz değişken, field, method, function 'lar için kullanılır.
+ 
+internal protected: Aynı projede türetilerek(Kalıtım alınarak) oluşturulan sınıflarda kullanılacak değişken, metot, field ve function 'lar için kullanılır.
+ 
+

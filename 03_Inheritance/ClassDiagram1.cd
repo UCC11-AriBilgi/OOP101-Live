@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_03_Inheritance.clsPerson">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAACAAAAA=</HashCode>
+      <FileName>clsPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Inheritance.clsStudent">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>clsStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Inheritance.clsSalesRepresant">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>clsSalesRepresant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Inheritance.clsWorker">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>clsWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Inheritance.clsTrainer">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Inheritance.clsJob">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsJob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
